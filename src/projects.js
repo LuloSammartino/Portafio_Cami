@@ -54,5 +54,37 @@ export const projects = [
     "cover": "/proyectos/cortometrajes/corto-07.jpg",
     "video": "https://www.youtube.com/embed/Z4jln2B_lMU",
     "description": "Camila Carlevaro — Dirección de Sonido."
+  },
+  {
+    "id": "videoclip-01",
+    "title": "Codiciada - GAUCHE, HuiléN, Nico Calavera",
+    "category": "Asistencia de dirección, Montaje",
+    "cover": "https://i.ytimg.com/vi/xzw2YGmIKg0/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/xzw2YGmIKg0",
+    "description": "Camila Carlevaro — Asistencia de dirección, Montaje."
+  },
+  {
+    "id": "videoclip-02",
+    "title": "Impaciente - Jazmín Sparta",
+    "category": "Asistencia de dirección, Cámara",
+    "cover": "https://i.ytimg.com/vi/syDm7eVs-7Y/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/syDm7eVs-7Y",
+    "description": "Camila Carlevaro — Asistencia de dirección, Cámara."
+  },
+  {
+    "id": "videoclip-03",
+    "title": "El Espejo - Jazmín Sparta",
+    "category": "Asistencia de dirección, Producción",
+    "cover": "https://i.ytimg.com/vi/ditITl5K_T4/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/ditITl5K_T4",
+    "description": "Camila Carlevaro — Asistencia de dirección, Producción."
+  },
+  {
+    "id": "videoclip-04",
+    "title": "Caramelo - Juani Baby",
+    "category": "Backstage",
+    "cover": "https://i.ytimg.com/vi/sHWnxZ0gqTQ/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/sHWnxZ0gqTQ",
+    "description": "Camila Carlevaro — Backstage."
   }
 ];

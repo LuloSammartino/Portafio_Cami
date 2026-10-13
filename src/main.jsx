@@ -40,8 +40,7 @@ function App() {
       </> : <section className="about">
         <h1>Sobre mí & contacto</h1>
         <p className="about-name">Camila Carlevaro</p>
-        <p>Este espacio reunirá mis proyectos, procesos y exploraciones creativas.</p>
-        <p className="content-note">La biografía y los datos de contacto se incorporarán junto con los trabajos.</p>
+        <p>Diseñadora de Imagen y Sonido graduada de la UBA, realizadora audiovisual, editora de video y fotógrafa con experiencia en edición, postproducción, motion graphics y dirección y producción en set. Manejo del paquete Adobe y herramientas de Inteligencia Artificial integradas al flujo de trabajo. Acostumbrada a trabajar con distintos clientes, formatos y plataformas con criterio estético y narrativo, autonomía y buena comunicación en equipo. Busco aportar versatilidad técnica y sensibilidad creativa a proyectos audiovisuales desde la preproducción hasta la entrega final. Como proyectos destacados, dirigí el corto <em>La cautiva</em> y me desarrollé como montajista en mi tesis final: <em>Donde fuimos por última vez</em>.</p>
         <button className="back-button" onClick={() => navigate('work')}>Ver proyectos →</button>
       </section>}
       <footer>© {new Date().getFullYear()} Camila Carlevaro</footer>
